@@ -1,0 +1,12 @@
+@extends('layouts.base')
+
+@section('container')
+    <div class="container mt-4">
+        <center>
+            <h1>Home</h1>
+        </center>
+        <hr>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum earum consequatur at, sunt cumque molestiae in dicta qui. Impedit officia numquam minus error atque nobis provident ratione voluptatem, consequuntur exercitationem. Provident libero consequatur illum, accusamus a, non dolorem reprehenderit fugiat reiciendis voluptatum recusandae voluptatem esse rem est nesciunt blanditiis quaerat, sapiente accusantium omnis cum. Sint molestiae doloribus eaque consectetur officia maxime fugiat. Amet laudantium necessitatibus tenetur odit ad molestias adipisci. Ipsum nulla repellat animi, vel veniam quas fugit modi aliquid eos. Explicabo aperiam, in iure illum, nobis earum ab libero deleniti non officiis sit! Nulla architecto aperiam eius nobis magnam blanditiis numquam vitae, totam tempore maiores neque autem? Dolorem, eveniet totam id corporis illum quidem dolorum earum porro at repellendus reprehenderit iure optio harum neque deleniti eaque culpa ab dicta ut voluptatem. Voluptatibus, fuga modi aut quod explicabo earum tempora ipsa reprehenderit dolorum quae illum necessitatibus ducimus voluptates distinctio placeat numquam. Voluptatum, voluptate asperiores animi debitis natus sunt dignissimos dolorum cumque error iusto itaque fuga fugiat a dolores, rem totam consectetur! Culpa, sapiente. In, doloremque qui. In, assumenda. Voluptatum blanditiis ex hic aliquam, autem aspernatur est, ipsam facilis commodi dicta odit sint nobis placeat. Commodi, eveniet culpa. Possimus suscipit debitis ab voluptas, repellat, impedit quaerat, consequuntur vero cupiditate libero dignissimos? Eum hic incidunt voluptas, corporis numquam veritatis ducimus eaque voluptatum harum obcaecati eos blanditiis id natus ut, sequi quasi a nihil, suscipit pariatur esse! Odit itaque magni nesciunt earum totam? Repellat, rem similique modi magnam iure voluptatibus voluptatem, cumque porro autem officiis qui et, maiores illum? Odio illo enim laudantium quod reprehenderit dolorem eum adipisci, culpa consectetur autem perspiciatis accusantium asperiores iure vitae explicabo ipsa harum quasi excepturi et iusto laborum, debitis ut beatae? Hic praesentium libero perferendis beatae ipsam nobis voluptatem at incidunt facilis laudantium, veniam, recusandae culpa asperiores.</p>
+    
+    </div>
+    @endsection
